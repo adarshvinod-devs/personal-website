@@ -8,12 +8,6 @@ body {
 
 }
 
-.Header a {
-    font-size: 20px;
-    color: black;
-    cursor: pointer;
-}
-
 #Profile-pic {
     max-width: 400px;
     height: 400px;
@@ -21,7 +15,7 @@ body {
     object-fit: cover;
     display: inline-block;
     margin: 50px;
-    border: 5px solid black;
+    border: 3px solid black;
 }
 
 .Name {
